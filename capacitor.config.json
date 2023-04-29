@@ -1,0 +1,11 @@
+{
+  "appId": "net.mapsandapps.counties",
+  "appName": "Counties",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
